@@ -1,0 +1,1 @@
+figurePath = '/home/hongli/Documents/figureStitching/Mouse 1 _ C3S3'
